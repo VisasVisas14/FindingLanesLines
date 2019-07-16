@@ -1,2 +1,0 @@
-# FindingLanesLines
-Udacity Project
