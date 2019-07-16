@@ -61,7 +61,7 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-As seen in the when running the pipeline on the challenge.mp4 video, the pipeline is horrible on curved roads.
+As seen when running the pipeline on the challenge.mp4 video, the pipeline is horrible on curved roads.
 
 
 ### 3. Suggest possible improvements to your pipeline
